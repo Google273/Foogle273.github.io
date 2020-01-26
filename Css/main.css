@@ -1,0 +1,326 @@
+header {
+   background:url(../img/header3.jpg) no-repeat center top/ cover;
+    height: 700px;
+    margin-top:-35px;
+}
+body {
+    font-family: 'Bangers', cursive;
+    font-weight: 100;
+    padding: 0;
+    margin: 0;
+}
+.name p {
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    padding-top:330px ;
+}
+.developer {
+    margin: 15px;
+    color:white;
+    font-size: 40px;
+    text-align: center;      
+}
+.down{ 
+    color:white;
+    font-size: 30px;
+    text-align: center;
+}
+.imgdown img {
+    height: 65px;
+    padding-top: 100px;
+    margin-left: 630px;
+
+}
+.titleforme {
+    font-size: 35px;
+    text-align: center;
+}
+.imgforme {
+    margin-left: 590px;
+    height: 160px;
+}
+.textforme {
+    font-size: 22px;
+    text-align: center;
+}
+.titleforwed {
+    font-size: 35px;
+    text-align: center;
+}
+.textforwed {
+    font-size: 22px;
+    text-align: center;
+}
+
+.wed img {
+    height: 160px;
+    margin-left: 590px;
+}
+
+footer {
+background:url(../img/fopter.jpg) center top/ cover;
+    height: 400px;
+}
+.footertext {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+footer img {
+    height: 80px;
+}
+.button ul {
+    margin-left: 520px;
+}
+.button a  {
+    text-decoration: none;
+    color:white; 
+    font-size: 20px; 
+ 
+
+}
+.button li  {
+    padding: 20px 0;
+    text-align: center;
+    list-style-type: none;
+    background: #08118C;
+    height: 35px;
+    width: 200px;
+}
+.button  li:hover {
+    transition: 1s;
+    background:#0F1FFF;
+}
+@media (min-width:321px) and (max-width:340px) {
+    html {
+       overflow-x: hidden; 
+    }
+    body {
+        overflow-x:hidden; 
+    }
+    .imgdown img {
+        margin-left: 131px;
+    }
+    .name p {
+        padding-top:50px;
+        font-size: 30px;
+    }
+    .developer {
+        font-size: 30px;
+    }
+    .forme .titleforme {
+        font-size: 30px;
+    }
+    .imgforme {
+        margin-left: 74px;
+    }
+    .forme .textforme {
+        font-size: 20px;
+    }
+    .titleforwed {
+        font-size: 30px;
+    }
+    .wed img {
+        margin-left: 74px;
+    }
+    .textforwed {
+        font-size: 20px;
+    }
+
+}
+@media (min-width:0) and (max-width:320px) {
+    html {
+       overflow-x: hidden; 
+    }
+    body {
+        overflow-x:hidden; 
+    }
+    .imgdown img {
+        margin-left: 131px;
+    }
+    .name p {
+        padding-top:50px;
+        font-size: 30px;
+    }
+    .developer {
+        font-size: 30px;
+    }
+    .forme .titleforme {
+        font-size: 30px;
+    }
+    .imgforme {
+        margin-left: 74px;
+    }
+    .forme .textforme {
+        font-size: 20px;
+    }
+    .titleforwed {
+        font-size: 30px;
+    }
+    .wed img {
+        margin-left: 74px;
+    }
+    .textforwed {
+        font-size: 20px;
+    }
+    .button ul {
+        margin-left:25px;
+    }
+}
+@media (min-width:321px) and (max-width:340px) {
+    html {
+       overflow-x: hidden; 
+    }
+    body {
+        overflow-x:hidden; 
+    }
+    .imgdown img {
+        margin-left: 131px;
+    }
+    .name p {
+        padding-top:50px;
+        font-size: 30px;
+    }
+    .developer {
+        font-size: 30px;
+    }
+    .forme .titleforme {
+        font-size: 30px;
+    }
+    .imgforme {
+        margin-left: 74px;
+    }
+    .forme .textforme {
+        font-size: 20px;
+    }
+    .titleforwed {
+        font-size: 30px;
+    }
+    .wed img {
+        margin-left: 74px;
+    }
+    .textforwed {
+        font-size: 20px;
+    }
+    .button ul {
+        margin-left:25px;
+    }
+}
+@media (min-width:341px) and (max-width:370px) {
+    html {
+       overflow-x: hidden; 
+    }
+    body {
+        overflow-x:hidden; 
+    }
+    .imgdown img {
+        margin-left: 151px;
+    }
+    .name p {
+        padding-top:50px;
+        font-size: 30px;
+    }
+    .developer {
+        font-size: 30px;
+    }
+    .forme .titleforme {
+        font-size: 30px;
+    }
+    .imgforme {
+        margin-left: 90px;
+    }
+    .forme .textforme {
+        font-size: 20px;
+    }
+    .titleforwed {
+        font-size: 30px;
+    }
+    .wed img {
+        margin-left: 90px;
+    }
+    .textforwed {
+        font-size: 20px;
+    }
+    .button ul {
+        margin-left:35px;
+    }
+}
+@media (min-width:371px) and (max-width:410px) {
+    html {
+       overflow-x: hidden; 
+    }
+    body {
+        overflow-x:hidden; 
+    }
+    .imgdown img {
+        margin-left: 171px;
+    }
+    .name p {
+        padding-top:50px;
+        font-size: 30px;
+    }
+    .developer {
+        font-size: 30px;
+    }
+    .forme .titleforme {
+        font-size: 30px;
+    }
+    .imgforme {
+        margin-left: 110px;
+    }
+    .forme .textforme {
+        font-size: 20px;
+    }
+    .titleforwed {
+        font-size: 30px;
+    }
+    .wed img {
+        margin-left: 110px;
+    }
+    .textforwed {
+        font-size: 20px;
+    }
+    .button ul {
+        margin-left:45px;
+    }
+}
+@media (min-width:411px) and (max-width:500px) {
+    html {
+       overflow-x: hidden; 
+    }
+    body {
+        overflow-x:hidden; 
+    }
+    .imgdown img {
+        margin-left: 171px;
+    }
+    .name p {
+        padding-top:50px;
+        font-size: 30px;
+    }
+    .developer {
+        font-size: 30px;
+    }
+    .forme .titleforme {
+        font-size: 30px;
+    }
+    .imgforme {
+        margin-left: 120px;
+    }
+    .forme .textforme {
+        font-size: 20px;
+    }
+    .titleforwed {
+        font-size: 30px;
+    }
+    .wed img {
+        margin-left: 120px;
+    }
+    .textforwed {
+        font-size: 20px;
+    }
+    .button ul {
+        margin-left:55px;
+    }
+}
